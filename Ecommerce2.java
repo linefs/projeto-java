@@ -58,4 +58,9 @@ public class Ecommerce2 {
         System.out.println("Endereço: " + this.endereco);
         System.out.println("Valor da Compra: " + valor);
     }
+
+	public boolean valor(float valor) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }
